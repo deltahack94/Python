@@ -1,11 +1,11 @@
 # python
 
-pip install string
+python -m pip install string
 
-pip install time
+python -m pip install time
 
-pip install itertools
+python -m pip install itertools
 
-pip install numpy
+python -m pip install numpy
 
-pip install zipfile
+python -m pip install zipfile
